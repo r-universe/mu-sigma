@@ -1,0 +1,10 @@
+[
+  {
+    "package": "analysisPipelines",
+    "oncran": true
+  },
+  {
+    "package": "muHVT",
+    "oncran": true
+  }
+]
