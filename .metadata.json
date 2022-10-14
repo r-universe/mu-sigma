@@ -1,8 +1,5 @@
 [
   {
-    "package": "analysisPipelines"
-  },
-  {
     "package": "muHVT",
     "oncran": true
   }
