@@ -5,6 +5,3 @@
 [submodule "HVT"]
 	path = HVT
 	url = https://github.com/mu-sigma/hvt
-[submodule "muHVT"]
-	path = muHVT
-	url = https://github.com/mu-sigma/muhvt
